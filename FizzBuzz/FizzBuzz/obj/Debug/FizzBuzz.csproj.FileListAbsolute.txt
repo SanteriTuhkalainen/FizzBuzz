@@ -1,0 +1,7 @@
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Santeri\Desktop\koodaus\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
